@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Lfo9ma_Original",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "lfo9mate.minehost.games",
     "port": 27586,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Wash a drari kono chwiya active",
+        "Jrbo server Discord https://discord.com/invite/mQH82zfY7e?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnTuOdPXVU5RUWcqAmnPjzqMzeIoXEuiMPQvbQDrxjQiGoLjaUgjohBOGKuUM_aem_OhmY_hnq7oGYeeNVcYJrEg",
+        "Subscribe to Zylex"
       ]
     },
     "chat-log": true,
